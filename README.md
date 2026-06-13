@@ -30,9 +30,9 @@ Soy un desarrollador enfocado en crear aplicaciones practicas, limpias y utiles.
 
 ```ts
 const jorge = {
-  enfoque: ["Full-stack", "Desktop apps", "UI limpia", "Automatizacion"],
+  enfoque: ["Full-stack", "Desktop apps", "UI limpia", "Sistemas a medida"],
   stackFavorito: ["React", "TypeScript", "Electron", "Node.js", "SQLite"],
-  actualmente: "Construyendo y mejorando LabControl Pro",
+  actualmente: "Creando soluciones como LabControl Pro, EduPlan e InventaryMaster Pro",
   meta: "Crear software cada vez mas profesional, rapido y confiable"
 };
 ```
@@ -61,7 +61,7 @@ const jorge = {
 
 ---
 
-## En lo que estoy trabajando
+## Sistemas y proyectos
 
 <table>
   <tr>
@@ -77,19 +77,49 @@ const jorge = {
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Me gusta construir</h3>
-      <p>
-        Interfaces rapidas, dashboards claros, sistemas con autenticacion, apps de escritorio y herramientas que ayudan a trabajar mejor.
+      <h3 align="center">Sistema de Ticket de Buses</h3>
+      <p align="center">
+        Plataforma para gestionar tickets, rutas, pasajeros, ventas, reportes y control operativo de transporte.
       </p>
-      <ul>
-        <li>Frontend con React y TypeScript</li>
-        <li>Backend con Node.js y Express</li>
-        <li>Apps desktop con Electron</li>
-        <li>Bases de datos con SQLite y Firebase</li>
-      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Transporte-00C2FF?style=for-the-badge&logo=bus&logoColor=white" alt="Transporte" />
+        <img src="https://img.shields.io/badge/Tickets-22C55E?style=for-the-badge&logo=ticketmaster&logoColor=white" alt="Tickets" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">EduPlan</h3>
+      <p align="center">
+        Sistema de planificacion educativa para organizar actividades, contenidos, evaluaciones y seguimiento academico.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Educacion-7C3AED?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Educacion" />
+        <img src="https://img.shields.io/badge/Planificacion-00C2FF?style=for-the-badge&logo=notion&logoColor=white" alt="Planificacion" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">InventaryMaster Pro</h3>
+      <p align="center">
+        Sistema de inventario escolar para controlar equipos, materiales, movimientos, existencias y reportes administrativos.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Inventario-22C55E?style=for-the-badge&logo=sqlite&logoColor=white" alt="Inventario" />
+        <img src="https://img.shields.io/badge/Gestion%20Escolar-0F172A?style=for-the-badge&logo=bookstack&logoColor=white" alt="Gestion Escolar" />
+      </p>
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Sistemas%20a%20medida-React%20%2B%20TypeScript-00C2FF?style=for-the-badge&logo=react&logoColor=white" alt="Sistemas a medida" />
+  <img src="https://img.shields.io/badge/Apps%20de%20escritorio-Electron-7C3AED?style=for-the-badge&logo=electron&logoColor=white" alt="Apps de escritorio" />
+  <img src="https://img.shields.io/badge/Dashboards%20y%20reportes-Node.js-22C55E?style=for-the-badge&logo=node.js&logoColor=white" alt="Dashboards y reportes" />
+</div>
+
+<p align="center">
+  Tambien puedo desarrollar sistemas de inventario, gestion escolar, control de tickets, reservas, dashboards administrativos, apps de escritorio y soluciones personalizadas para negocios e instituciones.
+</p>
 
 ---
 
